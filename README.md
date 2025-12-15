@@ -48,7 +48,7 @@ Bu optimizasyon problemini çözmek için kullanılan Genetik Algoritma'nın tem
 
 ## 3. 🚀 Çalıştırma ve Kurulum
 
-Bu proje tek bir Jupyter Notebook dosyası (`Untitled6.ipynb`) içerir ve Python ortamında çalıştırılmalıdır.
+Bu proje tek bir Jupyter Notebook dosyası (`GunesPaneli-GA-Optimizasyon.ipynb`) içerir ve Python ortamında çalıştırılmalıdır.
 
 ### Gerekli Kütüphaneler
 
