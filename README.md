@@ -43,7 +43,7 @@ Bu optimizasyon problemini çözmek için kullanılan Genetik Algoritma'nın tem
 * **Seçilim (Selection):** Bir sonraki nesli oluşturacak ebeveynleri seçmek için **Sıralama Tabanlı Seçim (Rank Selection)** yöntemi kullanılmıştır.
 * **Çaprazlama (Crossover):** **Tek Noktalı Çaprazlama** yöntemi uygulanmıştır. Çocuklar, bir ebeveynin $x_1$ genini ve diğer ebeveynin $x_2$ genini birleştirerek oluşturulur.
 * **Mutasyon (Mutation):** Mutasyon, genetik çeşitliliği korumak amacıyla `mut_orani` olasılıkla uygulanır. Mutasyon sonrasında, genlerin **fiziksel aralıklar** içinde kalması için sınır kontrolü yapılır.
-* **Kısıt Yönetimi (Ceza Fonksiyonu):** GA döngüsü sırasında **problem kısıtlarını** sağlamayan bireylere (`kısıt_kontrol` fonksiyonu ile denetlenir) çok düşük bir fitness değeri (`1e-6`) atanarak yeni nesil seçiminde elenmeleri sağlanır (dış ceza yöntemi).
+* **Kısıt Yönetimi (Ceza Fonksiyonu):** GA döngüsü sırasında **problem kısıtlarını** sağlamayan bireylere (`kısıt_kontrol` fonksiyonu ile denetlenir) çok düşük bir fitness değeri atanarak yeni nesil seçiminde elenmeleri sağlanır (dış ceza yöntemi).
 * **Elitizm:** Her nesildeki en yüksek fitness değerine sahip birey, doğrudan bir sonraki nesle aktarılır (korunur).
 
 ## 3. 🚀 Çalıştırma ve Kurulum
