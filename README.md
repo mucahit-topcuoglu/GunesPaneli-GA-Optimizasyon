@@ -1,0 +1,1 @@
+# GunesPaneli-GA-Optimizasyon
