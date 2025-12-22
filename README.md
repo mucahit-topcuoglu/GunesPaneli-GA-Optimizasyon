@@ -1,4 +1,4 @@
-** Colab linki:** https://colab.research.google.com/drive/1umoXw6XbvYfJZNtTAE7IjbZ_vM-Pp02u?usp=sharing
+**Colab linki:** https://colab.research.google.com/drive/1umoXw6XbvYfJZNtTAE7IjbZ_vM-Pp02u?usp=sharing
 
 # ☀️ Güneş Paneli Optimizasyonu: Genetik Algoritma (GA)
 
