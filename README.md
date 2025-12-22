@@ -1,3 +1,5 @@
+** Colab linki:** https://colab.research.google.com/drive/1umoXw6XbvYfJZNtTAE7IjbZ_vM-Pp02u?usp=sharing
+
 # ☀️ Güneş Paneli Optimizasyonu: Genetik Algoritma (GA)
 
 Bu proje, bir belediyenin kurmayı planladığı güneş enerjisi sistemi için **maksimum enerji verimi** sağlayacak şekilde panel parametrelerini Genetik Algoritma (GA) kullanarak optimize etmektedir.
